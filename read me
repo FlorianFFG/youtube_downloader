@@ -1,0 +1,4 @@
+If you dont have pytube or pyqt5 or both installed, run in cmd
+
+pip install pyqt5
+pip install pytube
